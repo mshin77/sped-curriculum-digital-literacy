@@ -1,2 +1,1 @@
-# sped-curriculum-digital-literacy
-
+Lee, O., & Shin, M. (in press). Analysis of Digital Literacy in Special Education Curriculum(Mathematics, Science, and ICT) Using Text Mining. *Korean Journal of Physical, Multiple & Health Disabilities*.
