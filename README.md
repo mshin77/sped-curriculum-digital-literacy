@@ -1,1 +1,1 @@
-Lee, O., & Shin, M. (in press). Analysis of Digital Literacy in Special Education Curriculum (Mathematics, Science, and ICT) Using Text Mining. *Korean Journal of Physical, Multiple & Health Disabilities*.
+Analysis of digital literacy in special education curriculum (mathematics, science, and ICT) using text mining. *Korean Journal of Physical, Multiple & Health Disabilities, 69*(1), 155-172. [DOI](https://doi.org/10.20971/kcpmd.2026.69.1.155) | [Code](https://mshin77.github.io/sped-curriculum-digital-literacy/)
